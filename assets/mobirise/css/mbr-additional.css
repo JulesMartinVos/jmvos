@@ -457,6 +457,12 @@ P {
 #gallery1-15 {
 }
 
+#features1-1u {
+.mbr-section__col .mbr-header__text {
+  color: #3d8eb9;
+}
+}
+
 #msg-box4-1c {
 .mbr-header__text {
   color: #ffffff;
